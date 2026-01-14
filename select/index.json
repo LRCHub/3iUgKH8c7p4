@@ -2,15 +2,15 @@
   "version": 1,
   "base_track": "いますぐ輪廻",
   "base_artist": "なきそ",
-  "createdAt": "2025-12-25T10:58:31.929053Z",
+  "createdAt": "2026-01-14T02:44:39.489369Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
       "title": "いますぐ輪廻",
       "artist": "Nakiso",
-      "has_synced": true,
-      "path": "select/01_いますぐ輪廻_Nakiso.lrc"
+      "has_synced": false,
+      "path": "select/01_いますぐ輪廻_Nakiso.txt"
     },
     {
       "id": "petitlyrics_1",
